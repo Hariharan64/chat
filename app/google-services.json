@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995954672929",
+    "project_id": "education-chat-f505a",
+    "storage_bucket": "education-chat-f505a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995954672929:android:c989db43a5cc3135412a60",
+        "android_client_info": {
+          "package_name": "com.example.educationchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsRPX2sNNdy69uoohH5oQc6K0CVh-PIUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
